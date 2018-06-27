@@ -1,0 +1,18 @@
+label::after {
+  content: ':';
+}
+
+body {
+  background-color: #B6FCD5;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+img {
+  height: 250px;
+  width: 350px;
+  text-align: center;
+}
